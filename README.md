@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+August 28, 2018
 
 ## Student Name:  
-(First and Last Name)
+Caitlyn Colvin
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is intended to teach the importance of code versioning by providing an interactive example using a bootstrap template.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Version tracking is a method used when coding to track changes over time to code. It enables developers to return to different states and check who was responsible for code modifications recorded. 
+2. Repositories are a data structure used in Git to track changes.
+3. GitHub is a library of Git repositories which is widely used for open source projects.
 
